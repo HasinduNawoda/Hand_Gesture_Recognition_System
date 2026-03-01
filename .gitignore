@@ -1,0 +1,4 @@
+venv/
+gestures.zip
+__pycache__/
+*.pyc
